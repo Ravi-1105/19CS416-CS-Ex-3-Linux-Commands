@@ -1,8 +1,8 @@
 # Ex-01-Linux-Commands
 
-Name: RAVIVARMAN G S
+Name:shyam R
 
-Reg. No.: 212223100044
+Reg. No.: 212223040200
 
 
 ## Aim:
